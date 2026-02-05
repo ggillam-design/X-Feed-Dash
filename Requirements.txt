@@ -1,0 +1,8 @@
+streamlit
+tweepy
+scikit-learn
+gensim
+nltk
+torch
+transformers
+pandas
